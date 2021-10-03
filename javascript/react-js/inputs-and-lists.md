@@ -5,9 +5,10 @@ Before we go any further, we'll dive into an assignment that will test our knowl
 If you feel uneasy about what we've learned so far, go back and review the concepts of `state` and `props` from the previous lessons.
 
 ### Learning Outcomes
+By the end of this lesson, you should be able to:
 
-- Understanding how to render lists in React
-- Understanding how to handle input fields and forms in React.
+- Explain how to render lists in React
+- Explain how to handle input fields and forms in React
 
 ### Assignment
 
@@ -385,3 +386,9 @@ Here are a few optional tasks for you to practice. Try them out, if you can't so
 ### Additional Resources
 
 1. The sections on [Handling Events](https://reactjs.org/docs/handling-events.html) and [Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html) from the React documentation are helpful if you are stuck!
+
+
+### Knowledge Check
+
+ - <a class="knowledge-check-link" href="#detailed-guide">How do you render lists in React?</a>
+ - <a class="knowledge-check-link" href="#detailed-guide">How do you handle input fields and forms in React?</a>
